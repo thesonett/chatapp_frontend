@@ -1,0 +1,11 @@
+.messageBox {
+    background-color: gainsboro;
+    width: 80%; /* Adjust the width as needed */
+    max-width: 400px; /* Set a maximum width for better readability */
+    padding: 1rem;
+    margin: 1rem auto; /* Center the messages */
+    border-radius: 5px;
+    clear: both;
+    overflow-wrap: break-word; /* Ensure long messages wrap instead of overflow */
+    text-align: left;
+}
